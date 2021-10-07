@@ -40,7 +40,7 @@ Mas é importante que seja utilizada a palavra chave: ENCAPSULADO.
 ##O é linguagem e o que não é ?
 >> Nem todos os termos que utilizamos para referimo-nos a recursos que vão ser utilizados durante o desenvolvimento de um projeto podem ser considerados linguagens de programação.
 
->>#####Tabela de Lingaugens(Incluindo linguagens de marcação) e seus respectivos frameworks, fluxos de trabalho e ferramentas e OBJETIVOS.
+>> #####Tabela de Lingaugens(Incluindo linguagens de marcação) e seus respectivos frameworks, fluxos de trabalho e ferramentas e OBJETIVOS.
 
 >>| Javascript/Typescript |      HTML / CSS / JavaScript      |    Java / Kotlin   | Swift / Objective-C |    PHP    |     SQL    |
 |:---------------------:|:---------------------------------:|:------------------:|:-------------------:|:---------:|:----------:|
